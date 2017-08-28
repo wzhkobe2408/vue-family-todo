@@ -31,7 +31,7 @@
 			AddEvent,
 			Eventitem
 		},
-		mouted(){
+		mounted(){
 			eventsRef.on('value',snap=>{
 				let events=[]
 				snap.forEach(event=>{
