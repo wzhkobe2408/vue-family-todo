@@ -1,0 +1,26 @@
+#app{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	text-align: center;
+	margin-top: 60px;
+	color:#2c3350;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.signout-btn{
+	position: absolute;
+	text-align: right;
+	top:60px;
+	right:40px;
+}
+
+.form{
+	padding-right: 10%;
+	padding-left:10%;
+}
+
+.event-card{
+	border:2px solid #2c3e50;
+	margin-top: 10px;
+	border-radius: 4px;
+}
